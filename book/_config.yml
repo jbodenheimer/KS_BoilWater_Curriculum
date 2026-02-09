@@ -1,0 +1,8 @@
+title: "KS Boil Water Curriculum"
+author: "KS Boil Water Team"
+repository:
+  url: https://github.com/<org>/<repo>
+  path_to_book: book
+  branch: main
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
