@@ -1,7 +1,7 @@
 title: "KS Boil Water Curriculum"
 author: "KS Boil Water Team"
 repository:
-  url: https://github.com/your-github-username/KS_BoilWater_Curriculum
+  url: https://github.com/jbodenheimer/KS_BoilWater_Curriculum
   path_to_book: book
   branch: main
 launch_buttons:
