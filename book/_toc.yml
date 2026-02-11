@@ -1,5 +1,4 @@
 format: jb-book
 root: intro
 chapters:
-  - file: tutorials/day1_intro
   - file: tutorials/doc_scrapping
